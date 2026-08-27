@@ -1,4 +1,4 @@
 window.BUILDTRACK_CONFIG = {
-  supabaseUrl: "ใส่ Project URL",
-  supabasePublishableKey: "ใส่ Publishable Key"
+  supabaseUrl: "https://qaijmbscufievjgdpyfg.supabase.co",
+  sb_publishable_eq9dvVw60npCku7dMtvNbQ_dfO3qRXL
 };
