@@ -1031,9 +1031,11 @@ function renderProjects(){
             <td>
 
               <button
-                class="btn light"
-                onclick="editProject('${p.id}')">
-                Edit
+                <button
+  class="btn danger"
+  onclick="deleteProject('${p.id}')">
+  Delete
+</button>
               </button>
 
             </td>
